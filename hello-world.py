@@ -13,3 +13,5 @@ print ("Main")
 print ("Test Pull Request")
 
 print ("Ergänzung in Pycharm")
+
+print "Ergänzung in Github")
