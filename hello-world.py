@@ -20,4 +20,5 @@ print ("Wieder was ergänzt in Github")
 
 print ("Wieder lokal")
 
-print ("Alternative")
+print ("Alternative Weiterentwicklung")
+
